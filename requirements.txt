@@ -1,0 +1,7 @@
+import openai
+import speech_recognition 
+import whisper
+import tempfile
+import os
+import torch
+import sqlparse
