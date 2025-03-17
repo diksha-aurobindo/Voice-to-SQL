@@ -1,14 +1,4 @@
-import openai
-import speech_recognition as sr
-import whisper
-import tempfile
-import os
-import torch
-import sqlparse
-
-
-# Set your OpenAI API Key directly 
-openai.api_key = "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" # Replace with your actual API key
+openai.api_key = " " # Replace with your actual API key
 
 
 # Load Whisper model
